@@ -11,3 +11,17 @@ This project is Java Spring Boot Framework project what is designed REST API end
 - All endpoints will accept JSON and/or return JSON responses.
 
 _> Note: Versions should be examined in the pom.xml file. There are dependencies versions that we use, such as Spring Boot Framework version, Java version. Application properties include database connections._
+
+## Get all user
+
+![getAllUsers](https://user-images.githubusercontent.com/60318526/173067014-e98f57c1-b6d6-4a4e-97cf-afe9ccfbeaf8.PNG)
+
+## Get user
+
+![getUser](https://user-images.githubusercontent.com/60318526/173067081-518ce103-a464-47ba-b373-5d17f615f4a3.PNG)
+
+## Login
+
+![Login](https://user-images.githubusercontent.com/60318526/173067177-a68866d9-12df-4059-a88b-95a8c5d8f9bb.PNG)
+
+
