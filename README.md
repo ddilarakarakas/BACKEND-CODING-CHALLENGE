@@ -10,5 +10,4 @@ This project is Java Spring Boot Framework project what is designed REST API end
 - Weather information endpoint is exposed at /weather (GET) and can be filtered by given parameters (condition, time range, location, average etc.).
 - All endpoints will accept JSON and/or return JSON responses.
 
-## NOTES
-Versions should be examined in the pom.xml file. There are dependencies versions that we use, such as Spring Boot Framework version, Java version. Application properties include database connections.
+> Note: Versions should be examined in the pom.xml file. There are dependencies versions that we use, such as Spring Boot Framework version, Java version. Application properties include database connections.
