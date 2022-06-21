@@ -12,6 +12,14 @@ This project is Java Spring Boot Framework project what is designed REST API end
 
 _> Note: Versions should be examined in the pom.xml file. There are dependencies versions that we use, such as Spring Boot Framework version, Java version. Application properties include database connections._
 
+## How to run this project?
+
+Mysql server must be installed. You can connect to this server running on port 3306 (it should be default) with the root user password. It should contain a schema named test. After these operations are done, the sent jar file will work with the updated java sdk. Better to run it from terminal as the outputs are not in the log file. It is run with the command line 
+```sh
+java -jar Weather-rest-api.jar
+```
+ in the path of the jar file.
+
 ## Without token save user
 
 ![withOuthTokenSaveUser](https://user-images.githubusercontent.com/60318526/173068900-79342c75-1f9d-4545-a0b6-c08c5d7c92e5.PNG)
